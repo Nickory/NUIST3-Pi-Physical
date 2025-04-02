@@ -3,8 +3,8 @@
 # Description: NUIST Animal Quiz Game - A simple quiz application that asks
 #              animal-related questions and keeps track of the user's score.
 #              Part of Lab #2 for NUIST Raspberry Pi course.
-
 # NUIST Quiz Game in Python
+
 def quiz():
     print("Welcome to the Animal Quiz!")
     print("Answer the following questions:")

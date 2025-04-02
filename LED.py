@@ -1,3 +1,4 @@
+
 # Import the RPi.GPIO library to control the Raspberry Pi GPIO pins
 import RPi.GPIO as GPIO
 # Import the time library for adding delays
@@ -20,4 +21,5 @@ time.sleep(1)
 # Print message to console
 print("LED off")
 # Set GPIO pin 18 to LOW (0V) to turn the LED off
+
 GPIO.output(18, GPIO.LOW)
